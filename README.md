@@ -18,4 +18,4 @@ EMAIL_PASS = < Contraseña para enviar correos >
 Despues de descargarse las dependencias se deberá correr el script
 ### `npm start`
 
-Esto correrá la aplicacion en modo desarrollo en [http://localhost:3000](http://localhost:3000) 
+Esto correrá la aplicacion en modo desarrollo en [http://localhost:5000](http://localhost:5000) 
